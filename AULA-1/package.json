@@ -1,0 +1,11 @@
+{
+  "name": "aula-1",
+  "version": "1.0.0",
+  "description": "Aula 01 de tecnicas de programacao",
+  "main": "aula-node.js",
+  "scripts": {
+    "start": "node aula-node.js"
+  },
+  "author": "Alef Alves",
+  "license": "ISC"
+}
